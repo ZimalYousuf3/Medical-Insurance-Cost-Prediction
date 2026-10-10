@@ -6,7 +6,7 @@ A regression project predicting medical insurance costs based on personal and de
 - **Type**: Regression (predicting insurance charges)
 - **Models used**: Linear Regression, Random Forest Regressor
 - **Evaluation metrics**: MSE, MAE, RMSE, R2 Score
-
+ 
 ## What is covered
 - Exploratory Data Analysis (info, describe, missing value check)
 - Visual EDA using histograms and correlation heatmap
